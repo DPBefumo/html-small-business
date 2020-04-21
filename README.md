@@ -1,4 +1,4 @@
-# Build a Small Business Website
+<!-- # Build a Small Business Website
 
 ## Directions
 
@@ -36,7 +36,7 @@ The following plants are in stock. They should each be listed with their image a
 
 - Spring starflower: These charming little blooming plants hail from Argentina and Uruguay and form dense clumps of perennial flowers to chase the winter doldrums away. These flowers spring from fall planted bulbs. They can get up to half a foot tall with a similar spread. Each bulb will produce numerous flowering stems with slender, deeply green foliage. Blooms are fragrant and star shaped with six blue or white petals.
 
-- Tulips: We have a wide variety of tulips in many colors. Plant tulip bulbs in the fall, 6 to 8 weeks before a hard frost is expected and when soils are below 60 degrees F.
+- Tulips: We have a wide variety of tulips in many colors. Plant tulip bulbs in the fall, 6 to 8 weeks before a hard frost is expected and when soils are below 60 degrees F. -->
 
 ### Location and Hours
 
