@@ -1,6 +1,6 @@
 # Build a Small Business Website
 
-## Directions
+## Project Goals
 
 Your task is to build a three-page website for a small business, Lazy River Nursery and Garden Supply. The three pages are:
 
@@ -43,3 +43,8 @@ The following plants are in stock. They should each be listed with their image a
 The nursery is located at: 4400 Virginia Parkway, Cedarville, NC, 27165.
 
 Its hours are 9 AM - 7 PM Monday - Friday, 7 AM - 7 PM on Saturday, and 1 PM - 7 PM on Sunday. -->
+
+
+## What I Learned
+
+This project was my first experience with linking multiple HTML sites.  The design of this project was to build each page from scratch given just the information the customer wanted to display. This is a simplistic site to just help with my understanding how various HTML pages do communicate with one another and the ability to design them with in one folder.
